@@ -34,11 +34,6 @@
                         "position": "before"
                     },
                     {
-                        "pattern": "XLSX/**",
-                        "group": "internal",
-                        "position": "after"
-                    },
-                    {
                         "pattern": "{styles/**,*.+(css|scss)}",
                         "patternOptions": {
                             "dot": true,
