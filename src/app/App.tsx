@@ -1,5 +1,11 @@
+import Excel from 'pages/Excel';
+
 function App() {
-    return <div>App</div>;
+    return (
+        <div>
+            <Excel />
+        </div>
+    );
 }
 
 export default App;
