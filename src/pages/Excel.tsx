@@ -58,7 +58,7 @@ export default function Excel() {
                         Reset
                     </button>
                     <div className="flex w-full flex-col items-end gap-2.5">
-                        <label htmlFor="file-upload" className="children-sm cursor-pointer rounded-md border border-black px-2 py-1">
+                        <label htmlFor="file-upload" className="cursor-pointer rounded-md border border-black px-2 py-1">
                             파일 업로드
                             <input
                                 hidden
