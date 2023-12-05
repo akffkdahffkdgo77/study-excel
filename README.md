@@ -175,7 +175,6 @@ const schema = object().shape({
 
 ```jsx
 // onDataProcess
-
 const finalList = [];
 for (let excelIdx = 0; excelIdx < dataList.length; excelIdx++) {
     const [name, title, description] = dataList[excelIdx];
