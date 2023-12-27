@@ -1,6 +1,15 @@
-# Study Excel
+<img src="https://capsule-render.vercel.app/api?section=header&type=waving&height=300&text=Study%20Excel&color=random&fontSize=90" alt="" />
 
-XLSX 사용방법 기록
+## 프로젝트 실행
+
+```
+yarn install
+yarn start
+```
+
+## 프로젝트 데모
+
+<img width="1500" alt="sample" src="https://github.com/akffkdahffkdgo77/study-excel/assets/52883505/4d7d2f88-235b-4553-ad41-8b912301d086">
 
 ## TIL
 
@@ -193,6 +202,7 @@ const rawDataList = await checkFormat(fileUrl, sheetNum, headerRowNum, file);
 const excelList = await onDataProcess(rawDataList.slice(skipRowNum));
 setDataList(excelList);
 ```
+
 ### Excel Export
 
 #### 샘플 파일 다운로드
