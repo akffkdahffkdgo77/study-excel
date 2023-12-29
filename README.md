@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?section=header&type=waving&height=300&text=Study%20Excel&color=timeGradient&fontSize=90" alt="" />
+<img src="https://capsule-render.vercel.app/api?section=header&type=waving&height=300&text=Study%20Excel&color=gradient&fontSize=90&animation=fadeIn" alt="" />
 
 ## 프로젝트 실행
 
