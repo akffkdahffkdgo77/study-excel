@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?section=header&type=waving&height=300&text=Study%20Excel&color=gradient&fontSize=90&animation=fadeIn" alt="" />
 
-![Create React App](https://img.shields.io/badge/create--react--app-303846?style=for-the-badge&logo=createreactapp&logoColor=09D3AC)
+![Create React App](https://img.shields.io/badge/create_react_app-303846?style=for-the-badge&logo=createreactapp&logoColor=09D3AC)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
